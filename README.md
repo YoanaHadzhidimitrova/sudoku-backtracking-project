@@ -10,6 +10,7 @@ The notebook explains:
 - the combinatorial nature of Sudoku
 - constraint satisfaction problems
 - the backtracking search algorithm
+- the Minimum Remaining Values (MRV) heuristic
 - a Python implementation of a Sudoku solver
 
 The goal is to show how a recreational puzzle can be analyzed using mathematical reasoning and algorithmic thinking.
